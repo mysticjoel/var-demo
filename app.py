@@ -103,7 +103,7 @@ def pred_func2(video_path, model):
     return result,ans,logs
 
 def main():
-    st.title("Virtual Assistant Referee")
+    st.title("AI Referee Assistant")
     st.subheader("Player Contact and Foul Detection, using CNN based machine learning model.")
 
     uploaded_file = st.file_uploader("Choose a video file", type=["mp4", "avi", "mov","3gp"])
