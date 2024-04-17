@@ -10,9 +10,9 @@ Package Requirements: `TensorFlow`,`OpenCV`,`Numpy`,`Streamlit`
 To run the project:
 
 ```bash
-git clone "https://github.com/mysticjoel/AI-VAR.git"
+git clone "https://github.com/mysticjoel/var-demo.git"
 
-cd Virtual-Assistant-Referee
+cd var-demo
 
 python3 -m venv venv
 or
